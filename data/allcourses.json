@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Java",
+        "details": "Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages.",
+        "photo": "https://www.edureka.co/blog/wp-content/uploads/2018/01/2-2.png",
+        "prize": "5000",
+        "rating": "3.4"
+    },
+    {
+        "id": 2,
+        "name": "Python",
+        "details": "Python is commonly used for developing websites and software, task automation, data analysis, and data visualization. Since it's relatively easy to learn, Python has been adopted by many non-programmers such as accountants and scientists, for a variety of everyday tasks, like organizing finances.",
+        "photo": "https://www.zarantech.com/blog/wp-content/uploads/2017/01/noteable-features-of-python.jpg",
+        "prize": "8000",
+        "rating": "3.0"
+    },
+    {
+        "id": 3,
+        "name": "C",
+        "details": "The C programming language is a procedural and general-purpose language that provides low-level access to system memory. A program written in C must be run through a C compiler to convert it into an executable that a computer can run.",
+        "photo": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2022/02/05230444/Learn-C-Programming-Online-Free.jpg",
+        "prize": "3500",
+        "rating": "3.2"
+    },
+    {
+        "id": 4,
+        "name": "C++",
+        "details": "C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.",
+        "photo": "https://cdn.educba.com/academy/wp-content/uploads/2019/11/features-of-c.png",
+        "prize": "4500",
+        "rating": "3.5"
+    },
+    {
+        "id": 5,
+        "name": "Web development",
+        "details": "Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site",
+        "photo": "https://ares.decipherzone.com/blog-manager/uploads/banner_webp_bea99db8-7dba-41e7-941c-de4b61cc1650.webp",
+        "prize": "9000",
+        "rating": "3.8"
+    },
+    {
+        "id": 6,
+        "name": "React",
+        "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript",
+        "photo": "https://miro.medium.com/max/624/1*_Z2W8urXttbKVBaryY9PfQ.png",
+        "prize": "2500",
+        "rating": "3.6"
+    },
+    {
+        "id": 7,
+        "name": "Html",
+        "details": "HTML (HyperText Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables",
+        "photo": "https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
+        "prize": "1500",
+        "rating": "4"
+    }
+]
